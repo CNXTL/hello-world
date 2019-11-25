@@ -1,13 +1,14 @@
 char* strcpy(char* des,const char* source)
-¡¡
+Â¡Â¡
 {
-¡¡
+Â¡Â¡
  char* r=des;
    
   assert((des != NULL) && (source != NULL));
  
-¡¡while((*r++ = *source++)!='\0');
+Â¡Â¡while((*r++ = *source++)!='\0');
  
-¡¡return des;
-¡¡
+Â¡Â¡return des;
+Â¡Â¡
 }
+//è¿œç¨‹edit//
